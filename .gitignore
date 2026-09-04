@@ -1,0 +1,12 @@
+# secrets — never commit
+.env
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# generated outputs (rebuild with: python golden_set.py && python evals.py)
+eval_results.json

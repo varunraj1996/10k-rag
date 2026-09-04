@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What was Apple's total net sales in fiscal 2025?",
+    "answer": 416161000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "What was Apple's net income in fiscal 2025?",
+    "answer": 112010000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "What was Apple's operating income in fiscal 2025?",
+    "answer": 133050000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "What was Apple's gross profit in fiscal 2025?",
+    "answer": 195201000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "How much did Apple spend on research and development in fiscal 2025?",
+    "answer": 34550000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "What were Apple's total assets at the end of fiscal 2025?",
+    "answer": 359241000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "What were Apple's total liabilities at the end of fiscal 2025?",
+    "answer": 285508000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "How much cash and cash equivalents did Apple hold at the end of fiscal 2025?",
+    "answer": 35934000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "What was Apple's cost of sales in fiscal 2025?",
+    "answer": 220960000000,
+    "kind": "answerable"
+  },
+  {
+    "question": "What was Apple's employee attrition rate in fiscal 2025?",
+    "answer": "INSUFFICIENT_CONTEXT",
+    "kind": "unanswerable"
+  },
+  {
+    "question": "What will Apple's revenue be in fiscal 2026?",
+    "answer": "INSUFFICIENT_CONTEXT",
+    "kind": "unanswerable"
+  },
+  {
+    "question": "What was Apple's revenue from customers in Brazil in fiscal 2025?",
+    "answer": "INSUFFICIENT_CONTEXT",
+    "kind": "unanswerable"
+  }
+]
